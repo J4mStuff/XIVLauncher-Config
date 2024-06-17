@@ -1,0 +1,1 @@
+# XXIVLauncher-Config
