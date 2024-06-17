@@ -1,0 +1,9 @@
+{
+  "$type": "TheGreatSeparator.Configuration, TheGreatSeparator",
+  "FlyText": true,
+  "AbilityCost": true,
+  "AbilityTooltip": false,
+  "PartyList": true,
+  "CustomSeparator": null,
+  "Version": 1
+}

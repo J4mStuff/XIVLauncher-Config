@@ -1,0 +1,380 @@
+{
+  "$type": "FCNameColor.Config.ConfigurationV1, FCNameColor",
+  "Version": 1,
+  "Enabled": true,
+  "OnlyColorFCTag": true,
+  "IncludeSelf": true,
+  "IgnoreFriends": false,
+  "IncludeDuties": true,
+  "OnlyDuties": false,
+  "Glow": false,
+  "PlayerIDs": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+    "Nana'ko Vape@Zodiark": "13032293",
+    "Arro'e Veeran@Zodiark": "13032293",
+    "Tomoko Shinoi@Zodiark": "39504510"
+  },
+  "PlayerFCIDs": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+    "13032293": "9229283011365826669",
+    "39504510": "9229283011365802843"
+  },
+  "IgnoredPlayers": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "Groups": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[FCNameColor.Group, FCNameColor]], System.Private.CoreLib",
+    "Default": {
+      "$type": "FCNameColor.Group, FCNameColor",
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.8627451,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "UiColor": "17"
+    },
+    "Other FC": {
+      "$type": "FCNameColor.Group, FCNameColor",
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.07450981,
+        "Y": 0.8,
+        "Z": 0.6392157,
+        "W": 1.0
+      },
+      "UiColor": "52"
+    }
+  },
+  "FCGroups": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib",
+    "Nana'ko Vape@Zodiark": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+      "9229283011365816165": "Default"
+    },
+    "Tomoko Shinoi@Zodiark": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+      "9229283011365802843": "Default"
+    },
+    "Arro'e Veeran@Zodiark": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+      "9229283011365826669": "Default"
+    }
+  },
+  "FCs": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[FCNameColor.FC, FCNameColor]], System.Private.CoreLib",
+    "9229283011365816165": {
+      "$type": "FCNameColor.FC, FCNameColor",
+      "ID": "9229283011365816165",
+      "Name": "Steprock Society",
+      "World": "Zodiark",
+      "Members": [
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "17906386",
+          "Name": "Airi Ikezawa"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "6948364",
+          "Name": "Ferdinan Orthello"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "7932256",
+          "Name": "Maffi Doodles"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "8432820",
+          "Name": "Nhyxin Terenar"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "30671149",
+          "Name": "Raphtalia Blackshield"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "20700737",
+          "Name": "Strawberry Lillinyan"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "21291075",
+          "Name": "Erika Saxter"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "13234612",
+          "Name": "Goldie Goldington"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "20542583",
+          "Name": "Ira Blackrose"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "23542297",
+          "Name": "Snappy Genma"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "39418809",
+          "Name": "Wamados Moon"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "20474652",
+          "Name": "Arill Raynor"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "15691634",
+          "Name": "Dinvah Sorrowsong"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "36717795",
+          "Name": "Googles Caminata"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "26762876",
+          "Name": "Koharu Seraphim"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "40151899",
+          "Name": "Lunas Moon"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "20474470",
+          "Name": "Mori-yaya Yuyaya"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "21218788",
+          "Name": "Narukai Nephilim"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "41934092",
+          "Name": "Shay Ravel"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "43544713",
+          "Name": "Tiffany Aboh"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "42070277",
+          "Name": "Xenus Snow"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "43766233",
+          "Name": "Kiaer Sorrowsong"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "41777700",
+          "Name": "Lunas Moons"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "39994211",
+          "Name": "Wama Snow"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "44110170",
+          "Name": "Yakubo Kiyoshi"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "13032293",
+          "Name": "Arro'e Veeran"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "31988320",
+          "Name": "Faerasa Fae"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "47688892",
+          "Name": "Feared Wolf"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "45140388",
+          "Name": "Ffxiv Wiki"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "40062348",
+          "Name": "Grog Grog"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "47732941",
+          "Name": "Jukujo Ryoeshin"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "47640773",
+          "Name": "Lola Jumpila"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "21208689",
+          "Name": "Rose Fallenwood"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "46265761",
+          "Name": "Ruin Spell"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "14855932",
+          "Name": "Siyan Amberstorm"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "39504510",
+          "Name": "Tomoko Shinoi"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "19970354",
+          "Name": "Ari Nuovo"
+        }
+      ],
+      "LastUpdated": "2023-07-25T13:16:05.906972+02:00"
+    },
+    "9229283011365802843": {
+      "$type": "FCNameColor.FC, FCNameColor",
+      "ID": "9229283011365802843",
+      "Name": "School of Witchcraft",
+      "World": "Zodiark",
+      "Members": [
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "16930991",
+          "Name": "Luna Laveau"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "9764112",
+          "Name": "Alice Madhatter"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "27846312",
+          "Name": "Logan Belorunitia"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "34151086",
+          "Name": "Aisling Wolff"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "23099683",
+          "Name": "Akira Kurasu"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "13032293",
+          "Name": "Arro'e Veeran"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "41083469",
+          "Name": "B'raemha Thish"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "19962678",
+          "Name": "Bavel Bailey"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "32660393",
+          "Name": "Bura Yuzuriha"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "33618354",
+          "Name": "Cehoshi Tisri"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "38604445",
+          "Name": "Hitabe Yatsurugi"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "36278442",
+          "Name": "Kotori Ko"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "26400801",
+          "Name": "Nene Nerina"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "35756143",
+          "Name": "Ria Esprin"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "33668392",
+          "Name": "Teqih'ir Lhulge"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "39504510",
+          "Name": "Tomoko Shinoi"
+        }
+      ],
+      "LastUpdated": "2023-05-01T23:10:31.9515147+02:00"
+    },
+    "9229283011365826669": {
+      "$type": "FCNameColor.FC, FCNameColor",
+      "ID": "9229283011365826669",
+      "Name": "Tobean",
+      "World": "Zodiark",
+      "Members": [
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "39504510",
+          "Name": "Tomoko Shinoi"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "13032293",
+          "Name": "Arro'e Veeran"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "50101422",
+          "Name": "Randombun Nrthree"
+        },
+        {
+          "$type": "FCNameColor.FCMember, FCNameColor",
+          "ID": "50101386",
+          "Name": "Uwuwu Wuwuwu"
+        }
+      ],
+      "LastUpdated": "2023-12-12T09:32:21.536985+01:00"
+    }
+  }
+}

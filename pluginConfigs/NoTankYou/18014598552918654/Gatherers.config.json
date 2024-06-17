@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "SoloMode": true,
+  "DutiesOnly": false,
+  "DisableInSanctuary": false,
+  "Priority": 3,
+  "CustomWarning": false,
+  "CustomWarningText": "",
+  "Miner": true,
+  "Botanist": true,
+  "Fisher": true
+}

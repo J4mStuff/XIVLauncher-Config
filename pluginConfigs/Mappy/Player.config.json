@@ -1,0 +1,22 @@
+{
+  "Enable": true,
+  "Layer": 10,
+  "ShowIcon": true,
+  "IconScale": 0.4,
+  "OutlineColor": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 0.345
+  },
+  "FillColor": {
+    "X": 0.639,
+    "Y": 0.858,
+    "Z": 1.0,
+    "W": 0.313
+  },
+  "ShowCone": true,
+  "ConeRadius": 90.0,
+  "ConeAngle": 90.0,
+  "OutlineThickness": 2.0
+}

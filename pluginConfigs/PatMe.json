@@ -1,0 +1,159 @@
+{
+  "$type": "PatMe.Configuration, PatMe",
+  "Version": 2,
+  "EmoteData": [
+    {
+      "$type": "PatMe.EmoteOwnerDB, PatMe",
+      "Name": "Nana'ko Vape",
+      "CID": 0,
+      "Counters": [
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Pet",
+          "Value": 66
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Dote",
+          "Value": 114
+        }
+      ]
+    },
+    {
+      "$type": "PatMe.EmoteOwnerDB, PatMe",
+      "Name": "Unrivaled Sausage",
+      "CID": 0,
+      "Counters": [
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Pet",
+          "Value": 44
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Dote",
+          "Value": 12
+        }
+      ]
+    },
+    {
+      "$type": "PatMe.EmoteOwnerDB, PatMe",
+      "Name": "Arro'e Veeran",
+      "CID": 18014598539571838,
+      "Counters": [
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Dote",
+          "Value": 208
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Pet",
+          "Value": 55
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Hug",
+          "Value": 188
+        }
+      ]
+    },
+    {
+      "$type": "PatMe.EmoteOwnerDB, PatMe",
+      "Name": "Tomoko Shinoi",
+      "CID": 18014598549164580,
+      "Counters": [
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Pet",
+          "Value": 0
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Dote",
+          "Value": 0
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Hug",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "$type": "PatMe.EmoteOwnerDB, PatMe",
+      "Name": "Uwuwu Wuwuwu",
+      "CID": 18014598552918654,
+      "Counters": [
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Pet",
+          "Value": 0
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Dote",
+          "Value": 0
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Hug",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "$type": "PatMe.EmoteOwnerDB, PatMe",
+      "Name": "Hewwwoowo Wowowo",
+      "CID": 18014598552918660,
+      "Counters": [
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Pet",
+          "Value": 0
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Dote",
+          "Value": 0
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Hug",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "$type": "PatMe.EmoteOwnerDB, PatMe",
+      "Name": "Randombun Nrthree",
+      "CID": 18014598552918664,
+      "Counters": [
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Pet",
+          "Value": 0
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Dote",
+          "Value": 0
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Hug",
+          "Value": 0
+        }
+      ]
+    }
+  ],
+  "showSpecialPats": true,
+  "showProgressNotify": true,
+  "showFlyText": true,
+  "showFlyTextNames": true,
+  "showCounterUI": false,
+  "lockCounterUI": false,
+  "collapseCounterUI": true,
+  "canTrackDotes": true,
+  "canTrackHugs": true
+}

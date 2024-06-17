@@ -1,0 +1,253 @@
+﻿{
+  "Version": 1,
+  "Name": "Default",
+  "Settings": {
+    "1. Rutabega Scales - Face V2": {
+      "Settings": {},
+      "Priority": 52,
+      "Enabled": true
+    },
+    "2. Rutabega Scales - Body V2": {
+      "Settings": {},
+      "Priority": 50,
+      "Enabled": true
+    },
+    "Body - Rutabega Scales V2": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Elezen  Conversion pack": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Eyeworks": {
+      "Settings": {},
+      "Priority": 49,
+      "Enabled": true
+    },
+    "Face Defined": {
+      "Settings": {
+        "Hyur Midlander": 3,
+        "Hyur Highlander": 3,
+        "Elezen": 3,
+        "Miqote": 3,
+        "Lalafell": 3,
+        "Roegadyn": 3,
+        "AuRa": 3,
+        "Hrothgar": 1,
+        "Viera": 3,
+        "User Permissions": 1,
+        "Credits": 1,
+        "Final Note": 1
+      },
+      "Priority": 50,
+      "Enabled": true
+    },
+    "Female Miqo Chairsit Pack": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Female Miqo Groundsit Pack": {
+      "Settings": {
+        "Groundsit Animations": 15
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Female Miqo Groundsit Pack (2)": {
+      "Settings": {
+        "Groundsit Animations": 15
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Female Miqo Groundsit Pack V3": {
+      "Settings": {
+        "Basic Groundsit": 3,
+        "Pose01 (KNEESIT)": 3,
+        "Pose02 (Relaxed Sitback)": 3,
+        "Pose03 (Sitback CrossLegg)": 3
+      },
+      "Priority": 50,
+      "Enabled": true
+    },
+    "Female Miqo Idle and Movement Pack v2": {
+      "Settings": {
+        "Movement Animations": 1,
+        "Base Idle": 1,
+        "Pose01 (Arms Behind Head)": 3,
+        "Pose02 (Crossed Arms)": 3,
+        "Pose03 (Hands in Pockets)": 3,
+        "Pose04 (Laxed)": 3
+      },
+      "Priority": 50,
+      "Enabled": true
+    },
+    "Female Miqo Idle Changes (Standard)": {
+      "Settings": {
+        "Idle Animations": 31,
+        "Movement Animations": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Female Miqo'te Chair Sit Earwiggles and Tailsway Pack V3": {
+      "Settings": {
+        "Base Chairsit": 3,
+        "Pose01 (Sitback)": 3,
+        "Pose02 (Lean Forward)": 3,
+        "Pose03 (Hands on Lap)": 3,
+        "Pose04 (Gentle Lean Back)": 3
+      },
+      "Priority": 50,
+      "Enabled": true
+    },
+    "Hair Defined": {
+      "Settings": {
+        "Hyur - Midlander": 3,
+        "Hyur - Highlander": 3,
+        "Miqote": 3,
+        "Au Ra": 3,
+        "Elezen": 3,
+        "Lalafell": 3,
+        "Roegadyn": 3,
+        "Shadowbringers": 3,
+        "Endwalker": 1,
+        "Better Eyelashes, Eyebrows, and Beards": 131071,
+        "Extras": 31,
+        "Author Notes": 0,
+        "Veena Viera Fixes": 0
+      },
+      "Priority": 51,
+      "Enabled": true
+    },
+    "Hair Defined 6.35 Upgrade": {
+      "Settings": {
+        "Multi-race shared": 3,
+        "Hrothgar": 1
+      },
+      "Priority": 10,
+      "Enabled": false
+    },
+    "kart chara human textures": {
+      "Settings": {},
+      "Priority": 100,
+      "Enabled": true
+    },
+    "kart chara textures equipment 2x": {
+      "Settings": {},
+      "Priority": 100,
+      "Enabled": true
+    },
+    "kart world textures": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "kart world textures common": {
+      "Settings": {},
+      "Priority": 100,
+      "Enabled": true
+    },
+    "kart world textures endwalker": {
+      "Settings": {},
+      "Priority": 100,
+      "Enabled": true
+    },
+    "kart world textures grass": {
+      "Settings": {},
+      "Priority": 100,
+      "Enabled": true
+    },
+    "kart world textures heavensward": {
+      "Settings": {},
+      "Priority": 100,
+      "Enabled": true
+    },
+    "kart world textures main": {
+      "Settings": {},
+      "Priority": 100,
+      "Enabled": true
+    },
+    "kart world textures shadowbringers": {
+      "Settings": {},
+      "Priority": 100,
+      "Enabled": true
+    },
+    "kart world textures stormblood": {
+      "Settings": {},
+      "Priority": 100,
+      "Enabled": true
+    },
+    "M. DRK Idle Pose for F. DRK": {
+      "Settings": {
+        "Affected races": 1
+      },
+      "Priority": 50,
+      "Enabled": true
+    },
+    "Material 4K-UI v6.2.0": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Material 4K-UI v6.3.1 (Complete)": {
+      "Settings": {},
+      "Priority": 50,
+      "Enabled": true
+    },
+    "NPC Defined": {
+      "Settings": {
+        "A Realm Reborn": 65535,
+        "Heavensward": 255,
+        "Stormblood": 8191,
+        "Shadowbringers": 1023,
+        "EVENT": 1,
+        "Endwalker Patch": 1,
+        "Misc. NPC": 1,
+        "Patch 6.3-6.4": 0,
+        "The rest of Midlander": 3
+      },
+      "Priority": 48,
+      "Enabled": true
+    },
+    "NPC Defined (2)": {
+      "Settings": {
+        "A Realm Reborn": 1,
+        "Heavensward": 1,
+        "Stormblood": 1,
+        "Shadowbringers": 1,
+        "EVENT": 0,
+        "Endwalker Patch": 1,
+        "Misc. NPC": 0,
+        "The rest of Midlander": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "TOR _ Elezen  Conversion pack": {
+      "Settings": {},
+      "Priority": 49,
+      "Enabled": true
+    },
+    "TOR _ Hyur Conversion pack": {
+      "Settings": {},
+      "Priority": 49,
+      "Enabled": true
+    },
+    "TOR _ Kitty Conversion Pack Hotfix 1.0": {
+      "Settings": {},
+      "Priority": 49,
+      "Enabled": true
+    },
+    "Veena Hotfix": {
+      "Settings": {},
+      "Priority": 50,
+      "Enabled": true
+    }
+  },
+  "Inheritance": []
+}

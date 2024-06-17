@@ -1,0 +1,23 @@
+{
+  "$type": "Browsingway.Configuration, Browsingway",
+  "FrameTransportMode": 1,
+  "Inlays": [
+    {
+      "$type": "Browsingway.InlayConfiguration, Browsingway",
+      "ClickThrough": false,
+      "Framerate": 30,
+      "Guid": "225659b4-d6ae-43fd-b2f0-7946f80ca2e9",
+      "Hidden": false,
+      "Locked": false,
+      "Name": "act",
+      "Opacity": 100.0,
+      "TypeThrough": false,
+      "Url": "https://hibiyasleep.github.io/kagerou/overlay/?HOST_PORT=ws://127.0.0.1:10501/",
+      "Zoom": 100.0,
+      "Disabled": false,
+      "Muted": false,
+      "ActOptimizations": false
+    }
+  ],
+  "Version": 0
+}

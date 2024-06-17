@@ -1,0 +1,392 @@
+{
+  "Rules": [
+    {
+      "InclusiveAnd": false,
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Id": "Default",
+      "Name": "Unsorted",
+      "Index": 0,
+      "AllowedItemNames": [],
+      "AllowedItemTypes": [],
+      "AllowedItemRarities": [],
+      "ItemLevelFilter": {
+        "Enable": false,
+        "Label": "Item Level Filter",
+        "MaxValue": 1000,
+        "MinValue": 0
+      },
+      "VendorPriceFilter": {
+        "Enable": false,
+        "Label": "Vendor Price Filter",
+        "MaxValue": 1000000,
+        "MinValue": 0
+      },
+      "UntradableFilter": {
+        "State": 0,
+        "Filter": 0
+      },
+      "UniqueFilter": {
+        "State": 0,
+        "Filter": 2
+      },
+      "CollectableFilter": {
+        "State": 0,
+        "Filter": 3
+      },
+      "DyeableFilter": {
+        "State": 0,
+        "Filter": 1
+      },
+      "Direction": 0,
+      "FillMode": 0,
+      "SortMode": 0
+    },
+    {
+      "InclusiveAnd": false,
+      "Color": {
+        "X": 0.9529412,
+        "Y": 0.06666667,
+        "Z": 0.87058824,
+        "W": 1.0
+      },
+      "Id": "caeea380ffc647969a41c00c812e1962",
+      "Name": "Consume",
+      "Index": 1,
+      "AllowedItemNames": [],
+      "AllowedItemTypes": [
+        46,
+        44,
+        60
+      ],
+      "AllowedItemRarities": [],
+      "ItemLevelFilter": {
+        "Enable": false,
+        "Label": "Item Level Filter",
+        "MaxValue": 1000,
+        "MinValue": 0
+      },
+      "VendorPriceFilter": {
+        "Enable": false,
+        "Label": "Vendor Price Filter",
+        "MaxValue": 1000000,
+        "MinValue": 0
+      },
+      "UntradableFilter": {
+        "State": 0,
+        "Filter": 0
+      },
+      "UniqueFilter": {
+        "State": 0,
+        "Filter": 2
+      },
+      "CollectableFilter": {
+        "State": 0,
+        "Filter": 3
+      },
+      "DyeableFilter": {
+        "State": 0,
+        "Filter": 1
+      },
+      "Direction": 0,
+      "FillMode": 1,
+      "SortMode": 5
+    },
+    {
+      "InclusiveAnd": false,
+      "Color": {
+        "X": 0.047058824,
+        "Y": 0.65882355,
+        "Z": 0.050980393,
+        "W": 1.0
+      },
+      "Id": "aa75d758ac7d41708a40de9e2e476bf4",
+      "Name": "Fishing",
+      "Index": 2,
+      "AllowedItemNames": [],
+      "AllowedItemTypes": [
+        33
+      ],
+      "AllowedItemRarities": [],
+      "ItemLevelFilter": {
+        "Enable": false,
+        "Label": "Item Level Filter",
+        "MaxValue": 1000,
+        "MinValue": 0
+      },
+      "VendorPriceFilter": {
+        "Enable": false,
+        "Label": "Vendor Price Filter",
+        "MaxValue": 1000000,
+        "MinValue": 0
+      },
+      "UntradableFilter": {
+        "State": 0,
+        "Filter": 0
+      },
+      "UniqueFilter": {
+        "State": 0,
+        "Filter": 2
+      },
+      "CollectableFilter": {
+        "State": 0,
+        "Filter": 3
+      },
+      "DyeableFilter": {
+        "State": 0,
+        "Filter": 1
+      },
+      "Direction": 0,
+      "FillMode": 0,
+      "SortMode": 0
+    },
+    {
+      "InclusiveAnd": false,
+      "Color": {
+        "X": 0.24705882,
+        "Y": 0.7764706,
+        "Z": 0.70980394,
+        "W": 1.0
+      },
+      "Id": "52fb7c057993495d803bf47d4ff19512",
+      "Name": "Misc",
+      "Index": 3,
+      "AllowedItemNames": [],
+      "AllowedItemTypes": [
+        61,
+        85
+      ],
+      "AllowedItemRarities": [],
+      "ItemLevelFilter": {
+        "Enable": false,
+        "Label": "Item Level Filter",
+        "MaxValue": 1000,
+        "MinValue": 0
+      },
+      "VendorPriceFilter": {
+        "Enable": false,
+        "Label": "Vendor Price Filter",
+        "MaxValue": 1000000,
+        "MinValue": 0
+      },
+      "UntradableFilter": {
+        "State": 0,
+        "Filter": 0
+      },
+      "UniqueFilter": {
+        "State": 0,
+        "Filter": 2
+      },
+      "CollectableFilter": {
+        "State": 0,
+        "Filter": 3
+      },
+      "DyeableFilter": {
+        "State": 0,
+        "Filter": 1
+      },
+      "Direction": 0,
+      "FillMode": 1,
+      "SortMode": 5
+    },
+    {
+      "InclusiveAnd": false,
+      "Color": {
+        "X": 0.20392157,
+        "Y": 0.49019608,
+        "Z": 0.40392157,
+        "W": 1.0
+      },
+      "Id": "bcae3fe4c0dd4bfc88db374b9118dc9d",
+      "Name": "Dye",
+      "Index": 4,
+      "AllowedItemNames": [],
+      "AllowedItemTypes": [
+        55
+      ],
+      "AllowedItemRarities": [],
+      "ItemLevelFilter": {
+        "Enable": false,
+        "Label": "Item Level Filter",
+        "MaxValue": 1000,
+        "MinValue": 0
+      },
+      "VendorPriceFilter": {
+        "Enable": false,
+        "Label": "Vendor Price Filter",
+        "MaxValue": 1000000,
+        "MinValue": 0
+      },
+      "UntradableFilter": {
+        "State": 0,
+        "Filter": 0
+      },
+      "UniqueFilter": {
+        "State": 0,
+        "Filter": 2
+      },
+      "CollectableFilter": {
+        "State": 0,
+        "Filter": 3
+      },
+      "DyeableFilter": {
+        "State": 0,
+        "Filter": 1
+      },
+      "Direction": 0,
+      "FillMode": 1,
+      "SortMode": 0
+    },
+    {
+      "InclusiveAnd": false,
+      "Color": {
+        "X": 0.64705884,
+        "Y": 0.9490196,
+        "Z": 0.40392157,
+        "W": 1.0
+      },
+      "Id": "fbab65fd76d8494fb803c4c6587163fc",
+      "Name": "Ring",
+      "Index": 5,
+      "AllowedItemNames": [
+        "Eternity Ring"
+      ],
+      "AllowedItemTypes": [],
+      "AllowedItemRarities": [],
+      "ItemLevelFilter": {
+        "Enable": false,
+        "Label": "Item Level Filter",
+        "MaxValue": 1000,
+        "MinValue": 0
+      },
+      "VendorPriceFilter": {
+        "Enable": false,
+        "Label": "Vendor Price Filter",
+        "MaxValue": 1000000,
+        "MinValue": 0
+      },
+      "UntradableFilter": {
+        "State": 0,
+        "Filter": 0
+      },
+      "UniqueFilter": {
+        "State": 0,
+        "Filter": 2
+      },
+      "CollectableFilter": {
+        "State": 0,
+        "Filter": 3
+      },
+      "DyeableFilter": {
+        "State": 0,
+        "Filter": 1
+      },
+      "Direction": 0,
+      "FillMode": 0,
+      "SortMode": 0
+    },
+    {
+      "InclusiveAnd": false,
+      "Color": {
+        "X": 0.65882355,
+        "Y": 0.6156863,
+        "Z": 0.23137255,
+        "W": 1.0
+      },
+      "Id": "13898e3fa0ea4445ac0cca940acb0226",
+      "Name": "Firmament",
+      "Index": 6,
+      "AllowedItemNames": [
+        "Dwarven Mythril Ingot",
+        "Approved Grade 4 Skybuilders' Primordial Resin",
+        "Approved Grade 4 Skybuilders' Mineral Sand",
+        "Approved Grade 4 Skybuilders' Bluespirit Ore"
+      ],
+      "AllowedItemTypes": [],
+      "AllowedItemRarities": [],
+      "ItemLevelFilter": {
+        "Enable": false,
+        "Label": "Item Level Filter",
+        "MaxValue": 1000,
+        "MinValue": 0
+      },
+      "VendorPriceFilter": {
+        "Enable": false,
+        "Label": "Vendor Price Filter",
+        "MaxValue": 1000000,
+        "MinValue": 0
+      },
+      "UntradableFilter": {
+        "State": 0,
+        "Filter": 0
+      },
+      "UniqueFilter": {
+        "State": 0,
+        "Filter": 2
+      },
+      "CollectableFilter": {
+        "State": 0,
+        "Filter": 3
+      },
+      "DyeableFilter": {
+        "State": 0,
+        "Filter": 1
+      },
+      "Direction": 0,
+      "FillMode": 1,
+      "SortMode": 0
+    },
+    {
+      "InclusiveAnd": false,
+      "Color": {
+        "X": 0.6627451,
+        "Y": 0.4392157,
+        "Z": 0.96862745,
+        "W": 1.0
+      },
+      "Id": "56764598030c4e0b8a0064edf015f3cf",
+      "Name": "Cards",
+      "Index": 7,
+      "AllowedItemNames": [],
+      "AllowedItemTypes": [
+        86
+      ],
+      "AllowedItemRarities": [],
+      "ItemLevelFilter": {
+        "Enable": false,
+        "Label": "Item Level Filter",
+        "MaxValue": 1000,
+        "MinValue": 0
+      },
+      "VendorPriceFilter": {
+        "Enable": false,
+        "Label": "Vendor Price Filter",
+        "MaxValue": 1000000,
+        "MinValue": 0
+      },
+      "UntradableFilter": {
+        "State": 0,
+        "Filter": 0
+      },
+      "UniqueFilter": {
+        "State": 0,
+        "Filter": 2
+      },
+      "CollectableFilter": {
+        "State": 0,
+        "Filter": 3
+      },
+      "DyeableFilter": {
+        "State": 0,
+        "Filter": 1
+      },
+      "Direction": 0,
+      "FillMode": 0,
+      "SortMode": 0
+    }
+  ]
+}

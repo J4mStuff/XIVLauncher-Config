@@ -1,0 +1,4156 @@
+{
+  "$type": "Glamaholic.Configuration, Glamaholic",
+  "ShowEditorMenu": true,
+  "ShowExamineMenu": true,
+  "ShowTryOnMenu": true,
+  "ShowKofiButton": false,
+  "ItemFilterShowObtainedOnly": false,
+  "Version": 1,
+  "Plates": [
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "TNK white",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10032,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 26447,
+          "StainId": 101
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 26448,
+          "StainId": 101
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 26449,
+          "StainId": 101
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 26450,
+          "StainId": 101
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "TNK Grey",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 7521,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 29118,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31833,
+          "StainId": 112
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28712,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32520,
+          "StainId": 112
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "TNK - red demon",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 24339,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35191,
+          "StainId": 86
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35192,
+          "StainId": 86
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35193,
+          "StainId": 86
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35194,
+          "StainId": 86
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36773,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36778,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35085,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35090,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35015,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "DRK gray v2",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 18595,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38157,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35192,
+          "StainId": 6
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34000,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37135,
+          "StainId": 6
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "WAR red",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10032,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28844,
+          "StainId": 12
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28855,
+          "StainId": 12
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33960,
+          "StainId": 11
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28591,
+          "StainId": 12
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "TNK - oasis",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10032,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28824,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35042,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38029,
+          "StainId": 2
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35194,
+          "StainId": 22
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "WAR barbarian",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 7521,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17753,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 26129,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 18053,
+          "StainId": 9
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL Tribal",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 20484,
+          "StainId": 67
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33531,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10046,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10395,
+          "StainId": 67
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 26080,
+          "StainId": 67
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL casual shorts",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10032,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30755,
+          "StainId": 1
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16134,
+          "StainId": 102
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32802,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL dora the explora",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 26236,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31862,
+          "StainId": 48
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 29309,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23358,
+          "StainId": 105
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10921,
+          "StainId": 48
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL - white",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16624,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 18314,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31415,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 20477,
+          "StainId": 10
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30057,
+          "StainId": 1
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL white cloak",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36837,
+          "StainId": 1
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16372,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31415,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 3308,
+          "StainId": 36
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33662,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37081,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL brown",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23373,
+          "StainId": 21
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 24608,
+          "StainId": 19
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16133,
+          "StainId": 19
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28841,
+          "StainId": 21
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30761,
+          "StainId": 19
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL Burlesque",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28573,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32325,
+          "StainId": 10
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17497,
+          "StainId": 10
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13254,
+          "StainId": 10
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13255,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33028,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL red",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 24332,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23373,
+          "StainId": 104
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36845,
+          "StainId": 104
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16134,
+          "StainId": 102
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28713,
+          "StainId": 111
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL red dress",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17476,
+          "StainId": 10
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 29453,
+          "StainId": 10
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16133,
+          "StainId": 10
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 3308,
+          "StainId": 10
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28832,
+          "StainId": 10
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15284,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL samurai",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 39247,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16672,
+          "StainId": 11
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16580,
+          "StainId": 1
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34898,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 20566,
+          "StainId": 11
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37081,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL tribal white",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34200,
+          "StainId": 1
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 14794,
+          "StainId": 1
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 27047,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10390,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23522,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HEAL - caramel apple",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 2942,
+          "StainId": 29
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38258,
+          "StainId": 16
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10034,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 24005,
+          "StainId": 16
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38252,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31419,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "WHM - white oldies",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17476,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 29453,
+          "StainId": 101
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 7536,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23002,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 11823,
+          "StainId": 101
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15284,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "CAST - black",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28375,
+          "StainId": 111
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 21204,
+          "StainId": 111
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36828,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17479,
+          "StainId": 111
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28713,
+          "StainId": 111
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "MAGE red 2",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28823,
+          "StainId": 86
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36833,
+          "StainId": 86
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36834,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35073,
+          "StainId": 86
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36836,
+          "StainId": 86
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15284,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "BLM - blacc mage",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30820,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 21607,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17703,
+          "StainId": 22
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36846,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30053,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 20636,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37081,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37082,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "DNC/BRD robin hood",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 25824,
+          "StainId": 107
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33578,
+          "StainId": 107
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35207,
+          "StainId": 107
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33657,
+          "StainId": 5
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34889,
+          "StainId": 107
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "DNC/BRD scarf",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10032,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34886,
+          "StainId": 62
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31415,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33657,
+          "StainId": 62
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30758,
+          "StainId": 24
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "DNC/BRD royal",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 14591,
+          "StainId": 61
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10393,
+          "StainId": 61
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 113
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 7541,
+          "StainId": 61
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10396,
+          "StainId": 61
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37081,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 4193,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "AIM - casual",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23373,
+          "StainId": 6
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34886,
+          "StainId": 6
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 40428,
+          "StainId": 6
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 14835,
+          "StainId": 6
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 40430,
+          "StainId": 6
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "AIM - cowgrill",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15472,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28874,
+          "StainId": 29
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35207,
+          "StainId": 29
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34005,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12008,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "MCH - Desperado",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 25291,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34886,
+          "StainId": 32
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28607,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34005,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28713,
+          "StainId": 33
+        },
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34049,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "NIN - ninja",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32503,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17787,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38177,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31857,
+          "StainId": 105
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9476,
+          "StainId": 105
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16369,
+          "StainId": 105
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "NIN steampunk",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34720,
+          "StainId": 111
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34721,
+          "StainId": 111
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13273,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 14853,
+          "StainId": 111
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28832,
+          "StainId": 111
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15284,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "SAM steampunk",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17807,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28809,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 20598,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30049,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31847,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16449,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "DRG/RPR red",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13257,
+          "StainId": 86
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37173,
+          "StainId": 86
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36828,
+          "StainId": 86
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 3404,
+          "StainId": 86
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37176,
+          "StainId": 86
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "LAND - idk",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36837,
+          "StainId": 105
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 39852,
+          "StainId": 105
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 40428,
+          "StainId": 105
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32810,
+          "StainId": 105
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38221,
+          "StainId": 105
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37081,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HAND - workshop",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36837,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17463,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35869,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31796,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30758,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "HAND - Cookies and Cream",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13259,
+          "StainId": 102
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35435,
+          "StainId": 102
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 14974,
+          "StainId": 102
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 6976,
+          "StainId": 102
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9285,
+          "StainId": 102
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "Hand - Triple Cream Coffee",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36837,
+          "StainId": 25
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 39847,
+          "StainId": 1
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 40428,
+          "StainId": 28
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38236,
+          "StainId": 105
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 40430,
+          "StainId": 28
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 4245,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- Craftsman",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9298,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30052,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36846,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 14835,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30758,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- oasis",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9298,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10019,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36828,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10144,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13271,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- wedding dress",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30616,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 8686,
+          "StainId": 102
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 87
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 8689,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 8692,
+          "StainId": 111
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- latex demon",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 24339,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32799,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10043,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32801,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13271,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- black military",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13262,
+          "StainId": 6
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 20597,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34727,
+          "StainId": 6
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30049,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13271,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37081,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- red happi",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10032,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 27948,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35869,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 27939,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10045,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15284,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37082,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- casual white",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10032,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30755,
+          "StainId": 1
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 14835,
+          "StainId": 6
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32802,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- beach",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 20806,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23018,
+          "StainId": 60
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31415,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30753,
+          "StainId": 109
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 20478,
+          "StainId": 6
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37082,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- goth loli kinda",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28573,
+          "StainId": 6
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23001,
+          "StainId": 6
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 12
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 6976,
+          "StainId": 1
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 6977,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15284,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- elegant",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 7359,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33655,
+          "StainId": 35
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33656,
+          "StainId": 35
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31415,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36842,
+          "StainId": 12
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33662,
+          "StainId": 11
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- red coat",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36837,
+          "StainId": 12
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 24592,
+          "StainId": 12
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31415,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28712,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30758,
+          "StainId": 12
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15284,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- vintage",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13256,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36838,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31415,
+          "StainId": 12
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 24610,
+          "StainId": 6
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30761,
+          "StainId": 6
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- white rebel",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 0,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9298,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28590,
+          "StainId": 101
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31415,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28841,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30761,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37081,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37082,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- rzecz",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 11957,
+          "StainId": 111
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16600,
+          "StainId": 111
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31415,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 6976,
+          "StainId": 1
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23374,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- caliente",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23018,
+          "StainId": 86
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 3327,
+          "StainId": 6
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32802,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- blue business",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13262,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36845,
+          "StainId": 109
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 114
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36839,
+          "StainId": 109
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17469,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 11494,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- snow",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13259,
+          "StainId": 110
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 21937,
+          "StainId": 101
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28608,
+          "StainId": 110
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 27992,
+          "StainId": 101
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37081,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- rebel purple",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 2856,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28590,
+          "StainId": 111
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38219,
+          "StainId": 111
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32796,
+          "StainId": 111
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28591,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37081,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- casual ribbon",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33659,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 27941,
+          "StainId": 1
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31415,
+          "StainId": 108
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 21939,
+          "StainId": 108
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32802,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15284,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37082,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- dark blue",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38257,
+          "StainId": 86
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 39313,
+          "StainId": 109
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36846,
+          "StainId": 6
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36842,
+          "StainId": 109
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 39312,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- Yellow Tactical",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32798,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 41530,
+          "StainId": 88
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23352,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 41532,
+          "StainId": 88
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32802,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- Vagabond",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 13256,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 14830,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 14834,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33657,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37080,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- Blue Dress",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 8703,
+          "StainId": 90
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31414,
+          "StainId": 90
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 39249,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31416,
+          "StainId": 90
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31417,
+          "StainId": 90
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37082,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- street casual",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10032,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36831,
+          "StainId": 109
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36828,
+          "StainId": 109
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38216,
+          "StainId": 109
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30761,
+          "StainId": 109
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17679,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- comfy",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 8557,
+          "StainId": 1
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38239,
+          "StainId": 101
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38214,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 39256,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37082,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- red pimp",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38223,
+          "StainId": 86
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30048,
+          "StainId": 86
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 86
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23358,
+          "StainId": 86
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16582,
+          "StainId": 86
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37082,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- Black Rebel",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9298,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28590,
+          "StainId": 6
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36828,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28712,
+          "StainId": 6
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28589,
+          "StainId": 102
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37081,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "-- vampire cat",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38238,
+          "StainId": 114
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 24595,
+          "StainId": 114
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38225,
+          "StainId": 114
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28576,
+          "StainId": 114
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 27992,
+          "StainId": 6
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- Red Agent",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38223,
+          "StainId": 12
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38224,
+          "StainId": 86
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22361,
+          "StainId": 86
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36847,
+          "StainId": 86
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30758,
+          "StainId": 86
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 12029,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37082,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15286,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "[Haku] Morning Dew",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31093,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 40442,
+          "StainId": 108
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 35292,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 37011,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 20493,
+          "StainId": 108
+        },
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 40098,
+          "StainId": 101
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "Belle",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 24448,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34716,
+          "StainId": 101
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34887,
+          "StainId": 101
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31852,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 38175,
+          "StainId": 0
+        },
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 40097,
+          "StainId": 93
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 4288,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "For the Blood Lily",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 2856,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 31862,
+          "StainId": 10
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33532,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 30649,
+          "StainId": 0
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 23616,
+          "StainId": 6
+        },
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32284,
+          "StainId": 10
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "--- shiny",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9298,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 27941,
+          "StainId": 93
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 36828,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28576,
+          "StainId": 94
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28577,
+          "StainId": 94
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 15284,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "NIN - black",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 25670,
+          "StainId": 92
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 32794,
+          "StainId": 92
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 18699,
+          "StainId": 92
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28366,
+          "StainId": 92
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 40444,
+          "StainId": 92
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "SAM - kimono",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 39247,
+          "StainId": 1
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 34013,
+          "StainId": 1
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28855,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 39511,
+          "StainId": 1
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 39512,
+          "StainId": 0
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 16449,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "MNK - ...",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 24602,
+          "StainId": 88
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 11785,
+          "StainId": 111
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 11786,
+          "StainId": 88
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 27939,
+          "StainId": 111
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28591,
+          "StainId": 111
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 17503,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "Xrono Amber",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "MainHand": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 8360,
+          "StainId": 0
+        },
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 28239,
+          "StainId": 0
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33531,
+          "StainId": 0
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 33532,
+          "StainId": 0
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 22614,
+          "StainId": 63
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 26080,
+          "StainId": 6
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    },
+    {
+      "$type": "Glamaholic.SavedPlate, Glamaholic",
+      "Name": "MNK - black martial",
+      "Items": {
+        "$type": "System.Collections.Generic.Dictionary`2[[Glamaholic.PlateSlot, Glamaholic],[Glamaholic.SavedGlamourItem, Glamaholic]], System.Private.CoreLib",
+        "Head": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 20627,
+          "StainId": 111
+        },
+        "Body": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 41595,
+          "StainId": 111
+        },
+        "Hands": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 11786,
+          "StainId": 111
+        },
+        "Legs": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 10390,
+          "StainId": 111
+        },
+        "Feet": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 41594,
+          "StainId": 111
+        },
+        "Ears": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9293,
+          "StainId": 0
+        },
+        "Neck": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9292,
+          "StainId": 0
+        },
+        "Wrists": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9294,
+          "StainId": 0
+        },
+        "RightRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        },
+        "LeftRing": {
+          "$type": "Glamaholic.SavedGlamourItem, Glamaholic",
+          "ItemId": 9295,
+          "StainId": 0
+        }
+      },
+      "Tags": []
+    }
+  ]
+}

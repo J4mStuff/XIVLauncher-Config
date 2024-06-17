@@ -1,0 +1,15 @@
+{
+  "Enable": true,
+  "Layer": 7,
+  "ShowIcon": true,
+  "IconScale": 0.5,
+  "ShowTooltip": true,
+  "TooltipColor": {
+    "X": 0.11764706,
+    "Y": 0.5647059,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "SelectedIcon": 60421,
+  "DisplayJobIcons": false
+}

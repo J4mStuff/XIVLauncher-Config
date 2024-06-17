@@ -1,0 +1,40 @@
+{
+  "Enable": true,
+  "Layer": 1,
+  "ShowIcon": true,
+  "IconScale": 0.5,
+  "ShowTooltip": true,
+  "TooltipColor": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "MapLinkColor": {
+    "X": 0.655,
+    "Y": 0.396,
+    "Z": 0.149,
+    "W": 1.0
+  },
+  "InstanceLinkColor": {
+    "X": 1.0,
+    "Y": 0.64705884,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "AetheryteColor": {
+    "X": 0.25490198,
+    "Y": 0.4117647,
+    "Z": 0.88235295,
+    "W": 1.0
+  },
+  "AethernetColor": {
+    "X": 0.6784314,
+    "Y": 0.84705883,
+    "Z": 0.9019608,
+    "W": 1.0
+  },
+  "AetherytesOnTop": true,
+  "ShowMiscTooltips": true,
+  "ShowTeleportCostTooltips": true
+}

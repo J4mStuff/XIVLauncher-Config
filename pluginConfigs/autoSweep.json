@@ -1,0 +1,52 @@
+{
+  "$type": "AutoSweep.Configuration, autoSweep",
+  "Enabled": true,
+  "OutputFormatString": "",
+  "OutputFormat": 1,
+  "Mist": {
+    "$type": "AutoSweep.DistrictNotifConfig, autoSweep",
+    "Small": false,
+    "Medium": true,
+    "Large": true,
+    "FreeCompany": true,
+    "Individual": true
+  },
+  "LavenderBeds": {
+    "$type": "AutoSweep.DistrictNotifConfig, autoSweep",
+    "Small": false,
+    "Medium": true,
+    "Large": true,
+    "FreeCompany": true,
+    "Individual": true
+  },
+  "Goblet": {
+    "$type": "AutoSweep.DistrictNotifConfig, autoSweep",
+    "Small": false,
+    "Medium": false,
+    "Large": true,
+    "FreeCompany": true,
+    "Individual": true
+  },
+  "Shirogane": {
+    "$type": "AutoSweep.DistrictNotifConfig, autoSweep",
+    "Small": false,
+    "Medium": true,
+    "Large": true,
+    "FreeCompany": true,
+    "Individual": true
+  },
+  "Empyrean": {
+    "$type": "AutoSweep.DistrictNotifConfig, autoSweep",
+    "Small": false,
+    "Medium": true,
+    "Large": true,
+    "FreeCompany": true,
+    "Individual": true
+  },
+  "HomeworldNotifs": true,
+  "DatacenterNotifs": false,
+  "AllNotifs": false,
+  "ChatType": 1,
+  "ChatSweepAlert": true,
+  "Version": 3
+}

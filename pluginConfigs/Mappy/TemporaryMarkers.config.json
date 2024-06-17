@@ -1,0 +1,19 @@
+{
+  "Enable": true,
+  "Layer": 13,
+  "ShowIcon": true,
+  "IconScale": 0.5,
+  "ShowTooltip": true,
+  "TooltipColor": {
+    "X": 0.5294118,
+    "Y": 0.80784315,
+    "Z": 0.98039216,
+    "W": 1.0
+  },
+  "CircleColor": {
+    "X": 0.25490198,
+    "Y": 0.4117647,
+    "Z": 0.88235295,
+    "W": 0.33
+  }
+}

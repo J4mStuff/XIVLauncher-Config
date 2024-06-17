@@ -1,0 +1,9 @@
+{
+  "$type": "WorkshopOptimizerPlugin.Configuration, WorkshopOptimizerPlugin",
+  "DefaultRestCycle1": 0,
+  "DefaultRestCycle2": 1,
+  "Version": 3,
+  "DefaultTopValues": 10,
+  "ItemGenerationCutoff": 20,
+  "DefaultMultiCycleLimit": 90
+}

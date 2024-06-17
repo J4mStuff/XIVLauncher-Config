@@ -1,0 +1,24 @@
+{
+  "$type": "NextUIPlugin.Configuration.NextUIConfiguration, NextUIPlugin",
+  "socketPort": 32805,
+  "firstInstalled": false,
+  "overlays": [
+    {
+      "$type": "NextUIPlugin.Configuration.OverlayConfig, NextUIPlugin",
+      "Guid": "43a5f612-0146-4d96-9d5a-09657c32a53a",
+      "Name": "ACT",
+      "Url": "https://haeruhaeru.github.io/mopimopi/?HOST_PORT=ws://127.0.0.1:10501/",
+      "Size": "500|340",
+      "Position": "5|620",
+      "FullScreen": false,
+      "ClickThrough": false,
+      "TypeThrough": false,
+      "Locked": true,
+      "Hidden": false,
+      "VisibilityShow": 0,
+      "VisibilityHide": 1,
+      "FullScreenSize": "2560|1440"
+    }
+  ],
+  "Version": 3
+}

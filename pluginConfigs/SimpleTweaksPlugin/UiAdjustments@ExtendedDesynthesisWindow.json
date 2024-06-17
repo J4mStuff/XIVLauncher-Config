@@ -1,0 +1,16 @@
+{
+  "BlockClickOnGearset": true,
+  "YellowForSkillGain": true,
+  "Delta": false,
+  "ShowAll": true,
+  "ShowAllExcludeNoSkill": true,
+  "ShowAllExcludeGearset": true,
+  "ShowAllDefault": true,
+  "ShowAllExcludeArmoury": false,
+  "ShowAllSorting": [
+    2,
+    1,
+    3
+  ],
+  "Version": 1
+}

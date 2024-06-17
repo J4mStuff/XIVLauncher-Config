@@ -1,0 +1,19 @@
+{
+  "FcCustomizations": {},
+  "DefaultCustomization": {
+    "Enabled": false,
+    "Replacement": "",
+    "HideInDuty": false
+  },
+  "WandererCustomization": {
+    "Enabled": false,
+    "Replacement": "<crossworldicon><homeworld>",
+    "HideInDuty": false
+  },
+  "TravellerCustomization": {
+    "Enabled": false,
+    "Replacement": "<crossworldicon><homeworld>",
+    "HideInDuty": false
+  },
+  "Version": 1
+}

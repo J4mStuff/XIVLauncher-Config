@@ -1,0 +1,208 @@
+{
+  "$type": "SomethingNeedDoing.SomethingNeedDoingConfiguration, SomethingNeedDoing",
+  "Version": 1,
+  "RootFolder": {
+    "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+        "Name": "Gillionaire",
+        "Children": [
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "Coffee Biscuit",
+            "Contents": "/waitaddon \"Synthesis\" <wait.1>\n/ac \"Muscle Memory\" <wait.3>\n/ac \"Inner Quiet\" <wait.2>\n/ac \"Waste Not II\" <wait.2>\n/ac \"Final Appraisal\" <wait.2>\n/ac Groundwork <wait.3>\n/ac Innovation <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Delicate Synthesis\" <wait.3>\n/echo Craft finished <se.3>\n/waitaddon \"RecipeNote\"\n/click synthesize\n/loop",
+            "CraftingLoop": false,
+            "CraftLoopCount": 0,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "Gillionaire - Everything",
+            "Contents": "/wait 1.5\n/runmacro \"Gillionaire - Eirikur\"\n/wait 1.5\n/runmacro \"Gillionaire - Moyce\"\n/loop",
+            "CraftingLoop": false,
+            "CraftLoopCount": 0,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "Gillionaire - Eirikur",
+            "Contents": "/target Eirikur <wait.0.5>\n/send Numpad0\n\n/waitaddon Talk <wait.0.25>\n/send Numpad0\n\n/waitaddon SelectString <wait.0.25>\n/click select_string2\n\n/waitaddon GuildLeve <wait.0.25>\n/click guild_leve_culinarian\n/waitaddon JournalDetail <wait.0.25>\n/click journal_detail_accept\n/wait 0.5\n\n/send Escape <wait.0.5>\n/click select_string4 <wait.0.25>\n",
+            "CraftingLoop": false,
+            "CraftLoopCount": 0,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "Gillionaire - Moyce",
+            "Contents": "/runmacro \"Gillionaire - Start turn-in\"\n/runmacro \"Gillionaire - Turn-in\"\n/runmacro \"Gillionaire - Next\"\n/runmacro \"Gillionaire - Turn-in\"\n/runmacro \"Gillionaire - Next\"\n/runmacro \"Gillionaire - Turn-in\"\n",
+            "CraftingLoop": false,
+            "CraftLoopCount": 0,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "Gillionaire - Start turn-in",
+            "Contents": "/target Moyce <wait.0.25>\n/send Numpad0\n\n/waitaddon SelectIconString <wait.0.25>\n/click select_Icon_string3\n\n/waitaddon Talk <wait.0.25>\n/send Numpad0 <wait.0.25>\n",
+            "CraftingLoop": false,
+            "CraftLoopCount": 0,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "Gillionaire - Turn-in",
+            "Contents": "/waitaddon Request\n/send Multiply <wait.0.25>\n\n/waitaddon ContextIconMenu <wait.0.25>\n/send Numpad0 <wait.0.25>\n/click request_hand_over\n\n/waitaddon Talk <wait.0.25>\n/send Numpad0 <wait.0.25>\n\n/waitaddon Talk <wait.0.25>\n/send Numpad0 <wait.0.25>\n\n/waitaddon JournalResult <wait.0.25>\n/click journal_result_complete\n/wait 0.25\n",
+            "CraftingLoop": false,
+            "CraftLoopCount": 0,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "Gillionaire - Next",
+            "Contents": "/waitaddon Talk <wait.0.25>\n/send Numpad0 <wait.0.25>\n\n/waitaddon SelectString <wait.0.25>\n/send Numpad0 <wait.0.25>\n",
+            "CraftingLoop": false,
+            "CraftLoopCount": 0,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+            "Name": "Firmament Turn-in",
+            "Children": [
+              {
+                "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+                "Name": "Turn-in",
+                "Children": [
+                  {
+                    "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                    "Name": "TurnIn",
+                    "Contents": "/send Numpad0 <wait.0.2>\n/send Multiply <wait.0.2>\n/send Numpad0 <wait.0.2>\n/send Numpad0 <wait.0.2>\n/loop 50",
+                    "CraftingLoop": false,
+                    "CraftLoopCount": 28,
+                    "IsLua": false
+                  }
+                ]
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "Test",
+                "Contents": "/target Potkin <wait.0.5>\n/send Numpad0 <wait.0.5>\n/send Numpad0 <wait.0.5>\n/send Numpad0 <wait.0.5>\n\n/send Numpad2 <wait.0.5>\n/send Numpad0 <wait.0.5>\n\n/runmacro \"TurnIn\"\n\n/send Escape <wait.0.5>",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+        "Name": "N3kk",
+        "Children": [
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "35_3.6k",
+            "Contents": "/require \"Well Fed\"\n/ac \"Muscle Memory\" <wait.3>\n/ac Manipulation <wait.2>\n/ac \"Waste Not II\" <wait.2>\n/ac Groundwork <wait.3>\n/ac Innovation <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac Innovation <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Master's Mend\" <wait.3>\n/ac \"Great Strides\" <wait.2>\n/ac \"Byregot's Blessing\" <wait.3>\n/ac Veneration <wait.2>\n/ac Groundwork <wait.3>",
+            "CraftingLoop": true,
+            "CraftLoopCount": 17,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "35_4.5k",
+            "Contents": "/require \"Well Fed\"\n/ac \"Muscle Memory\" <wait.3>\n/ac Manipulation <wait.2>\n/ac \"Waste Not II\" <wait.2>\n/ac Groundwork <wait.3>\n/ac Innovation <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac Innovation <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Master's Mend\" <wait.3>\n/ac \"Great Strides\" <wait.2>\n/ac \"Byregot's Blessing\" <wait.3>\n/ac Veneration <wait.2>\n/ac Groundwork <wait.3>\n/ac \"Careful Synthesis\" <wait.3>",
+            "CraftingLoop": true,
+            "CraftLoopCount": 20,
+            "IsLua": false
+          }
+        ]
+      },
+      {
+        "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+        "Name": "Relic",
+        "Children": [
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "EW relic phase 2",
+            "Contents": "/require \"Well Fed\"\n/require \"Medicated\"\n/ac \"Muscle Memory\" <wait.3>\n/ac \"Manipulation\" <wait.2>\n/ac \"Waste Not II\" <wait.2>\n/ac \"Groundwork\" <wait.3>\n/ac \"Innovation\" <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Observe\" <wait.3>\n/ac \"Focused Touch\" <wait.3>\n/ac \"Manipulation\" <wait.2>\n/ac \"Innovation\" <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Prudent Touch\" <wait.3>\n/ac \"Great Strides\" <wait.2>\n/ac \"Byregot's Blessing\" <wait.3>\n/ac \"Veneration\" <wait.2>\n/ac \"Basic Synthesis\" <wait.3>\n/ac \"Basic Synthesis\" <wait.3>\n/ac \"Basic Synthesis\" <wait.3>\n/ac \"Basic Synthesis\" <wait.3>",
+            "CraftingLoop": true,
+            "CraftLoopCount": 12,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "EW relic phase 3",
+            "Contents": "/require \"Well Fed\"\n/require \"Medicated\"\n/ac \"Muscle Memory\" <wait.3>\n/ac \"Manipulation\" <wait.2>\n/ac \"Veneration\" <wait.3>\n/ac \"Waste Not II\" <wait.2>\n/ac \"Groundwork\" <wait.3>\n/ac \"Groundwork\" <wait.3>\n/ac \"Innovation\" <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Innovation\" <wait.2>\n/ac \"Prudent Touch\" <wait.3>\n/ac \"Trained Finesse\" <wait.3>\n/ac \"Trained Finesse\" <wait.3>\n/ac \"Trained Finesse\" <wait.3>\n/ac \"Innovation\" <wait.2>\n/ac \"Great Strides\" <wait.2>\n/ac \"Byregot's Blessing\" <wait.3>\n/ac \"Basic Synthesis\" <wait.3>",
+            "CraftingLoop": true,
+            "CraftLoopCount": 7,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "EW relic phase 4",
+            "Contents": "/require \"Well Fed\"\n/require \"Medicated\"\n/requirerepair\n/ac \"Muscle Memory\" <wait.3>\n/ac \"Manipulation\" <wait.2>\n/ac \"Veneration\" <wait.3>\n/ac \"Waste Not II\" <wait.2>\n/ac \"Groundwork\" <wait.3>\n/ac \"Groundwork\" <wait.3>\n/ac \"Delicate Synthesis\" <wait.3>\n/ac \"Innovation\" <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Innovation\" <wait.2>\n/ac \"Delicate Synthesis\" <wait.3>\n/ac \"Trained Finesse\" <wait.3>\n/ac \"Trained Finesse\" <wait.3>\n/ac \"Innovation\" <wait.2>\n/ac \"Great Strides\" <wait.2>\n/ac \"Byregot's Blessing\" <wait.3>\n/ac \"Careful Synthesis\" <wait.3>",
+            "CraftingLoop": true,
+            "CraftLoopCount": 1,
+            "IsLua": false
+          }
+        ]
+      },
+      {
+        "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+        "Name": "Collectables",
+        "Children": [
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "40_lvl90",
+            "Contents": "/ac Reflect <wait.3>\n/ac Manipulation <wait.2>\n/ac \"Waste Not II\" <wait.2>\n/ac Innovation <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Great Strides\" <wait.2>\n/ac \"Byregot's Blessing\" <wait.3>\n/ac Veneration <wait.2>\n/ac Groundwork <wait.3>\n/ac Groundwork <wait.3>\n/ac Groundwork <wait.3>",
+            "CraftingLoop": true,
+            "CraftLoopCount": 4,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "Lazy Deliveries 80-90",
+            "Contents": "/ac Reflect <wait.3>\n/ac \"Waste Not II\" <wait.2>\n/ac Innovation <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac Veneration <wait.2>\n/ac Groundwork <wait.3>\n/ac Groundwork <wait.3>",
+            "CraftingLoop": true,
+            "CraftLoopCount": 6,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "10 lvls 2tap",
+            "Contents": "/ac \"Trained Eye\" <wait.3>\n/ac \"Groundwork\" <wait.3>\n/ac \"Groundwork\" <wait.3>\n/ac \"Groundwork\" <wait.3>",
+            "CraftingLoop": true,
+            "CraftLoopCount": 3,
+            "IsLua": false
+          },
+          {
+            "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+            "Name": "40_lvl88",
+            "Contents": "/ac Reflect <wait.3>\n/ac Manipulation <wait.2>\n/ac \"Waste Not II\" <wait.2>\n/ac Innovation <wait.2>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac \"Preparatory Touch\" <wait.3>\n/ac Veneration <wait.2>\n/ac Groundwork <wait.3>\n/ac Groundwork <wait.3>",
+            "CraftingLoop": true,
+            "CraftLoopCount": 2,
+            "IsLua": false
+          }
+        ]
+      }
+    ]
+  },
+  "CraftSkip": true,
+  "SmartWait": false,
+  "QualitySkip": true,
+  "LoopTotal": false,
+  "LoopEcho": true,
+  "DisableMonospaced": false,
+  "UseCraftLoopTemplate": false,
+  "CraftLoopTemplate": "/craft {{count}}\n/waitaddon \"RecipeNote\" <maxwait.5>/click \"synthesize\"/waitaddon \"Synthesis\" <maxwait.5>{{macro}}/loop",
+  "CraftLoopFromRecipeNote": true,
+  "CraftLoopMaxWait": 5,
+  "CraftLoopEcho": false,
+  "MaxTimeoutRetries": 0,
+  "NoisyErrors": false,
+  "BeepFrequency": 900,
+  "BeepDuration": 250,
+  "BeepCount": 3,
+  "ChatType": 1,
+  "ErrorChatType": 2
+}

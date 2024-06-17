@@ -1,0 +1,277 @@
+{
+  "CharacterName": "Unrivaled Sausage",
+  "LocalContentID": 18014598546401879,
+  "World": "Zodiark",
+  "DutyRoulette": {
+    "EnableClickableLink": false,
+    "TrackedRoulettes": [
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 5
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 8
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 2
+      },
+      {
+        "Tracked": false,
+        "Completed": true,
+        "Type": 1
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 6
+      },
+      {
+        "Tracked": false,
+        "Completed": true,
+        "Type": 3
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 4
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 15
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 17
+      },
+      {
+        "Tracked": false,
+        "Completed": true,
+        "Type": 7
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 9
+      }
+    ],
+    "NextReset": "2022-06-10T15:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "WondrousTails": {
+    "InstanceNotifications": false,
+    "EnableOpenBookLink": false,
+    "StickerAvailableNotification": false,
+    "NextReset": "0001-01-01T00:00:00",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "JumboCactpot": {
+    "Tickets": [
+      6678,
+      556,
+      7576
+    ],
+    "EnableClickableLink": false,
+    "NextReset": "2022-06-11T19:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "TreasureMap": {
+    "LastMapGathered": "2022-06-08T04:34:00Z",
+    "NextReset": "0001-01-01T00:00:00",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "BeastTribe": {
+    "NotificationThreshold": 12,
+    "ComparisonMode": 0,
+    "NextReset": "0001-01-01T00:00:00",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "Levequest": {
+    "NotificationThreshold": 95,
+    "ComparisonMode": 0,
+    "NextReset": "0001-01-01T00:00:00",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "MiniCactpot": {
+    "TicketsRemaining": 3,
+    "EnableClickableLink": false,
+    "NextReset": "2022-06-10T15:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "CustomDelivery": {
+    "NextReset": "0001-01-01T00:00:00",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "DomanEnclave": {
+    "DonatedThisWeek": 0,
+    "WeeklyAllowance": 0,
+    "EnableClickableLink": false,
+    "NextReset": "2022-06-14T08:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "FashionReport": {
+    "AllowancesRemaining": 4,
+    "HighestWeeklyScore": 0,
+    "Mode": 0,
+    "EnableClickableLink": false,
+    "NextReset": "2022-06-14T08:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "WeeklyHuntMarks": {
+    "TrackedHunts": [
+      {
+        "Tracked": false,
+        "Type": 4,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 5,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 9,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 13,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 17,
+        "State": 0
+      }
+    ],
+    "NextReset": "2022-06-14T08:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "DailyHuntMarks": {
+    "TrackedHunts": [
+      {
+        "Tracked": false,
+        "Type": 0,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 1,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 2,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 3,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 6,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 7,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 8,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 10,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 11,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 12,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 14,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 15,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 16,
+        "State": 0
+      }
+    ],
+    "NextReset": "2022-06-10T15:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "Version": 1
+}

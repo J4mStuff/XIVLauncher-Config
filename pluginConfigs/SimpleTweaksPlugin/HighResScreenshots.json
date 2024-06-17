@@ -1,0 +1,13 @@
+{
+  "Scale": 2,
+  "Delay": 0.0,
+  "HideDalamudUi": true,
+  "HideGameUi": true,
+  "RemoveCopyright": true,
+  "UseReShade": false,
+  "ReShadeMainKey": 44,
+  "ReShadeCtrl": false,
+  "ReShadeShift": false,
+  "ReShadeAlt": false,
+  "Version": 1
+}

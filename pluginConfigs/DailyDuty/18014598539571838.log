@@ -1,0 +1,2770 @@
+{
+  "CharacterName": "Nana'ko Vape",
+  "LocalContentID": 18014598539571838,
+  "World": "Zodiark",
+  "Messages": {
+    "DutyRoulette": [
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T22:53:44.8725665Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-28T17:23:51.6013818Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-28T22:35:49.2486745Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-28T22:52:31.7907537Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-29T15:00:00.153367Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-29T15:00:00.1549505Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-29T15:00:00.7668716Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-29T16:02:03.9483776Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-29T19:20:04.8454055Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-29T22:11:23.5465315Z",
+        "Message": "Expert Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-30T15:07:45.5344571Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-30T16:52:40.2032616Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-30T16:59:09.2094378Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-30T19:15:10.6423033Z",
+        "Message": "Expert Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T08:39:25.0882348Z",
+        "Message": "Frontline Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T08:39:25.0910562Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T15:00:00.1523995Z",
+        "Message": "Expert Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T15:00:00.1538043Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T15:00:00.164497Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T15:00:00.1656008Z",
+        "Message": "Frontline Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T15:00:00.2847529Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T15:28:20.772512Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T15:33:28.6283703Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-01T17:31:43.7283088Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-01T22:44:12.0629316Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-01T23:00:59.2555557Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T17:13:12.6915594Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T20:55:17.4055617Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T21:16:16.4307667Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-03T22:34:42.8576508Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-03T23:06:08.5489331Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-03T23:20:16.2501693Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T17:50:20.7055308Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T20:26:01.0134551Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T20:38:41.7025744Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-05T15:25:59.5633092Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-05T16:55:12.447192Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-05T17:19:37.2741472Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T15:00:00.1530224Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T15:00:00.1707873Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T15:00:00.4198197Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T22:31:15.3452006Z",
+        "Message": "Guildhests Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T22:55:13.4780188Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T23:02:07.1596264Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T15:00:00.0611603Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T15:00:00.0625209Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T15:00:00.0732919Z",
+        "Message": "Guildhests Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T15:00:00.4979762Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T17:38:49.3040632Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T18:00:01.5974146Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T22:53:45.4518209Z",
+        "Message": "Expert Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-08T16:30:17.3984196Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-08T22:08:17.1145991Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-08T22:19:49.4085535Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-09T19:39:52.654828Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-09T20:19:03.5077539Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-09T20:24:03.2005069Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-10T17:27:04.6157705Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-10T21:33:46.3896106Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-10T22:00:55.114694Z",
+        "Message": "Frontline Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-10T22:18:43.160799Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-11T16:24:08.0612839Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-12T00:23:57.212918Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-12T17:37:12.7709087Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-12T18:24:13.8997206Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-12T21:54:43.1828009Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-13T15:00:00.1419671Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-13T15:00:00.1578718Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-13T15:00:00.8446341Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-13T22:39:51.6939558Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-13T22:50:27.3708968Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-14T15:00:00.1227175Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-14T15:00:00.1495329Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-14T15:00:00.8691769Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-14T22:15:50.6055494Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-14T22:32:16.7879098Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-15T21:46:43.0273607Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-15T22:51:17.5990486Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-15T23:00:14.1998265Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-16T18:41:37.5633995Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-16T22:20:11.8829014Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-16T22:24:02.3746655Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-17T19:21:21.6263291Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-17T20:06:04.4411499Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-18T20:54:06.9794797Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-18T22:22:23.7891689Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-18T22:31:50.7788233Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-19T17:41:39.6137645Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-20T20:37:17.5686049Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-20T21:10:53.1680245Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-20T21:23:45.4202845Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-21T15:00:00.271205Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-21T15:00:00.2985017Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-21T15:00:00.5348673Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-21T21:09:36.7582469Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-21T21:13:51.0180848Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-22T17:10:05.6535976Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-22T20:58:19.1287898Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-22T21:06:57.2570842Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-22T21:10:24.2622287Z",
+        "Message": "Guildhests Completed"
+      }
+    ],
+    "MiniCactpot": [
+      {
+        "ModuleType": 11,
+        "Time": "2022-06-29T18:12:49.457167Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-06-30T16:04:28.6584575Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-06-30T23:37:08.9425369Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-06-30T23:37:18.6199349Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-06-30T23:37:29.4514949Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-01T15:00:00.1957086Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-01T21:36:52.7181387Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-01T21:37:01.2161375Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-01T21:37:09.5194777Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-02T17:21:45.8800673Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-02T20:37:52.7525835Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-02T20:38:02.542231Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-02T20:38:11.3706518Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-03T15:00:00.8432732Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-03T15:53:14.7273861Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-03T15:53:27.7256289Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-03T15:53:37.3482805Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-05T16:43:06.6257487Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-05T22:51:21.8851238Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-05T22:51:32.1546522Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-05T22:51:45.8572797Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-06T16:10:21.9654562Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-06T16:10:38.7315704Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-06T16:10:58.644584Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-06T16:11:06.6804791Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-25T09:53:59.5907942Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-25T11:10:16.0758537Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-25T11:10:27.9744821Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-25T11:10:35.7483435Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-25T15:00:00.5270285Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-25T21:03:18.1827105Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-25T21:03:26.0473684Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-25T21:03:35.9374708Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-26T16:34:12.5236494Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-26T16:34:49.3223104Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-26T16:34:58.2533753Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-26T16:35:09.7757667Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-27T17:43:15.5076646Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-27T19:05:07.4615811Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-27T19:05:17.9110035Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-27T19:05:41.253586Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-28T17:23:51.6188708Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-28T23:58:51.779952Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-28T23:59:12.3697504Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-28T23:59:20.1751052Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-29T15:00:00.7682479Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-30T08:51:20.0652276Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-30T08:51:28.8983265Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-30T08:51:38.2780115Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-30T15:07:45.5522086Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-30T17:15:48.9030629Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-30T17:16:01.1013982Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-30T17:16:12.8701689Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-31T15:00:00.2866409Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-01T17:31:43.7464087Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-02T17:13:12.7085253Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-02T21:54:19.2893433Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-02T21:54:30.9579146Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-02T21:54:39.6519693Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-03T22:34:42.8755478Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-04T17:50:20.7242798Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-04T21:22:54.0861915Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-04T21:23:01.6295123Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-04T21:23:11.0814509Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-05T15:25:59.5830014Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-05T17:39:09.3275859Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-05T17:39:28.9917475Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-05T17:39:52.459639Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-06T15:00:00.4214175Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-07T14:56:10.5191443Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-07T14:56:19.7240616Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-07T14:56:31.1283352Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-07T15:00:00.499372Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-08T16:30:17.4155603Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-09T19:39:52.6721241Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-10T17:27:04.6332654Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-11T16:24:08.0828652Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-12T17:37:12.7913763Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-13T15:00:00.84611Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-13T22:09:30.9432363Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-13T22:09:41.3178525Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-13T22:09:56.1620507Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-14T15:00:00.8706102Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-15T21:46:43.0451679Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-16T18:41:37.5807402Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-17T19:21:21.6435777Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-18T20:54:06.9970211Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-19T17:41:39.6297693Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-19T17:48:21.1367286Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-19T17:48:32.3340987Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-19T17:48:46.946951Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-20T20:37:17.5844789Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-20T21:51:57.6166424Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-20T21:52:11.2607176Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-20T21:52:26.022933Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-21T15:00:00.5364212Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-22T00:36:10.2149454Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-22T00:36:18.5211828Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-22T00:36:28.5292266Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-22T17:10:05.6702306Z",
+        "Message": "Daily Reset - Resetting"
+      }
+    ],
+    "DomanEnclave": [
+      {
+        "ModuleType": 13,
+        "Time": "2022-05-03T23:44:00.5034769Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-05-10T16:45:06.1923952Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-05-17T20:13:06.4405578Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-05-29T17:51:36.466174Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-05-31T17:52:50.2391849Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-03T12:32:52.427591Z",
+        "Message": "Weekly Allowance Updated - 20000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-06T19:19:05.5837038Z",
+        "Message": "Donation Value Updated - 20000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-08T16:30:54.6934508Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-11T11:10:14.9450346Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-11T11:58:10.7622668Z",
+        "Message": "Donation Value Updated - 20000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-14T18:52:11.72707Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-14T20:51:55.6534743Z",
+        "Message": "Weekly Allowance Updated - 25000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-14T20:53:25.6226925Z",
+        "Message": "Donation Value Updated - 25000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-21T19:09:33.0555963Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-21T20:26:05.7113118Z",
+        "Message": "Donation Value Updated - 25000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-28T16:09:27.7798529Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-28T17:36:53.6373889Z",
+        "Message": "Weekly Allowance Updated - 30000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-06-28T17:37:19.4421275Z",
+        "Message": "Donation Value Updated - 30000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-07-05T16:43:06.6270335Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-07-05T16:53:10.0744022Z",
+        "Message": "Donation Value Updated - 30000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-07-25T09:53:59.591937Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-07-25T11:15:45.1690368Z",
+        "Message": "Weekly Allowance Updated - 40000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-07-25T11:29:07.3793762Z",
+        "Message": "Donation Value Updated - 40000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-07-26T16:34:12.5250177Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-07-26T17:13:27.3974907Z",
+        "Message": "Donation Value Updated - 40000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-08-02T17:13:12.7098869Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-08-02T18:08:20.6540603Z",
+        "Message": "Donation Value Updated - 40000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-08-09T19:39:52.673401Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-08-10T21:19:57.8296067Z",
+        "Message": "Donation Value Updated - 40000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-08-16T18:41:37.5821216Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-08-20T22:25:26.8026484Z",
+        "Message": "Donation Value Updated - 40000"
+      }
+    ],
+    "FashionReport": [
+      {
+        "ModuleType": 14,
+        "Time": "2022-05-03T23:44:00.5046003Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-05-10T16:45:06.1929842Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-05-17T20:13:06.4412135Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-05-21T18:38:29.143311Z",
+        "Message": "Highest Score Updated 84"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-05-21T18:40:29.1001987Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-05-29T17:51:36.4671624Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-05-31T17:52:50.2398522Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-03T19:42:26.5299056Z",
+        "Message": "Highest Score Updated 80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-03T19:43:24.3918022Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-08T16:30:54.6943473Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-11T11:10:46.8875123Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-11T11:10:50.6085755Z",
+        "Message": "Mode Changed - Plus80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-11T11:34:33.0026531Z",
+        "Message": "Highest Score Updated 80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-11T11:35:27.4300131Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-14T18:52:11.7280025Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-18T15:31:29.2226339Z",
+        "Message": "Highest Score Updated 80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-18T15:32:45.656409Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-21T19:09:33.0567723Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-25T00:51:22.3640161Z",
+        "Message": "Highest Score Updated 80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-25T00:52:43.5147074Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-06-28T16:09:27.780923Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-01T21:40:35.3507885Z",
+        "Message": "Highest Score Updated 80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-01T21:46:22.0612333Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-05T16:43:06.6281304Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-25T09:53:59.5930538Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-25T11:11:34.973019Z",
+        "Message": "Highest Score Updated 80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-25T11:12:25.2363137Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-26T16:34:12.5265863Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-29T14:35:21.5284085Z",
+        "Message": "Highest Score Updated 80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-29T14:36:30.5287483Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-02T17:13:12.7110946Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-05T17:45:00.9857191Z",
+        "Message": "Highest Score Updated 79"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-05T17:47:13.7984469Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-05T17:47:33.8385444Z",
+        "Message": "Highest Score Updated 80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-05T17:49:18.8891695Z",
+        "Message": "Remaining Allowances Updated 2"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-09T19:39:52.6746442Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-13T22:12:34.1196186Z",
+        "Message": "Highest Score Updated 80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-13T22:14:33.6422152Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-16T18:41:37.5834187Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-19T17:50:03.4545432Z",
+        "Message": "Highest Score Updated 85"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-19T17:51:08.4030894Z",
+        "Message": "Remaining Allowances Updated 3"
+      }
+    ],
+    "JumboCactpot": [
+      {
+        "ModuleType": 15,
+        "Time": "2022-05-03T23:44:00.5089967Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-05-08T00:27:57.9019701Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-05-15T16:32:21.7207441Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-05-21T19:00:00.212521Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-05-29T17:51:36.4717982Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-05T10:51:29.0984335Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-06T19:11:23.926232Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-06T19:11:29.4079598Z",
+        "Message": "Ticket Purchased - 6917"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-06T19:11:33.7103192Z",
+        "Message": "Ticket Purchased - 3371"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-06T19:11:39.0424431Z",
+        "Message": "Ticket Purchased - 3046"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-11T11:11:00.2931289Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-11T11:36:39.0857858Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-11T11:36:47.7846832Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-11T15:39:40.1468776Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-11T21:20:21.6909571Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-11T21:30:47.1423896Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-11T21:30:52.7363365Z",
+        "Message": "Ticket Purchased - 7338"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-11T21:30:57.5809941Z",
+        "Message": "Ticket Purchased - 3905"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-11T21:31:01.481507Z",
+        "Message": "Ticket Purchased - 457"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-11T21:31:05.5969603Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-18T19:00:00.7189306Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-18T19:35:46.5340186Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-18T19:35:51.5067486Z",
+        "Message": "Ticket Purchased - 6141"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-18T19:35:55.8822307Z",
+        "Message": "Ticket Purchased - 7765"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-18T19:36:00.2778916Z",
+        "Message": "Ticket Purchased - 9977"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-25T19:00:00.7170658Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-26T09:56:16.8717357Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-26T09:56:22.3251728Z",
+        "Message": "Ticket Purchased - 5944"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-26T09:56:27.8741807Z",
+        "Message": "Ticket Purchased - 9550"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-06-26T09:56:32.0258154Z",
+        "Message": "Ticket Purchased - 2701"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-02T19:00:00.2962632Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-02T20:38:49.8323031Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-02T20:38:54.3038237Z",
+        "Message": "Ticket Purchased - 5591"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-02T20:38:58.7728672Z",
+        "Message": "Ticket Purchased - 7508"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-02T20:39:03.0702285Z",
+        "Message": "Ticket Purchased - 993"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-25T09:53:59.5967522Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-25T11:12:59.3663146Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-25T11:13:05.6359682Z",
+        "Message": "Ticket Purchased - 2260"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-25T11:13:08.2312731Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-25T11:13:12.5782301Z",
+        "Message": "Ticket Purchased - 1687"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-25T11:13:17.2342158Z",
+        "Message": "Ticket Purchased - 4328"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-25T11:13:20.5621526Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-30T19:00:00.9573747Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-30T19:44:53.242719Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-30T19:45:00.6542389Z",
+        "Message": "Ticket Purchased - 4021"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-30T19:45:05.1839748Z",
+        "Message": "Ticket Purchased - 5521"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-30T19:45:09.271628Z",
+        "Message": "Ticket Purchased - 2832"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-06T22:24:47.8058482Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-07T14:55:06.5404738Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-07T14:55:21.9769816Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-07T14:55:28.5820583Z",
+        "Message": "Ticket Purchased - 7997"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-07T14:55:33.2424592Z",
+        "Message": "Ticket Purchased - 8294"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-07T14:55:38.1491995Z",
+        "Message": "Ticket Purchased - 385"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-13T22:00:36.5223982Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-13T22:10:55.9563673Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-13T22:11:01.3713182Z",
+        "Message": "Ticket Purchased - 2731"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-13T22:11:06.4881489Z",
+        "Message": "Ticket Purchased - 7855"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-13T22:11:11.3711695Z",
+        "Message": "Ticket Purchased - 436"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-20T20:37:17.5881194Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-20T21:53:07.5571121Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-20T21:53:12.4446235Z",
+        "Message": "Ticket Purchased - 5010"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-20T21:53:15.5635246Z",
+        "Message": "ReSyncing Tickets"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-20T21:53:26.073129Z",
+        "Message": "Ticket Purchased - 6729"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-20T21:53:31.9943925Z",
+        "Message": "Ticket Purchased - 121"
+      }
+    ],
+    "HuntMarksWeekly": [
+      {
+        "ModuleType": 16,
+        "Time": "2022-05-03T23:44:00.5097251Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-05-10T16:45:06.1937205Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-05-17T20:13:06.4419241Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-05-29T17:51:36.473003Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-05-31T17:52:50.2407375Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-06-08T16:30:54.6953357Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-06-14T18:52:11.7290463Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-06-21T19:09:33.0579026Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-06-28T16:09:27.7820489Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-05T16:43:06.6292727Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-25T09:53:59.5979426Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-26T16:34:12.5279489Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-02T17:13:12.7123724Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-09T19:39:52.6759523Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-16T18:41:37.5847913Z",
+        "Message": "Weekly Reset - Resetting"
+      }
+    ],
+    "HuntMarksDaily": [
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-03T23:44:00.5103713Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-10T16:45:06.1943498Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-11T16:58:23.5364534Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-12T22:40:11.9786841Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-13T16:36:19.2316687Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-14T15:00:00.3853541Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-15T16:32:21.7214304Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-16T17:33:31.4911788Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-17T20:13:06.442609Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-18T19:25:59.2118041Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-19T22:07:30.1957271Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-20T15:54:31.2373952Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-21T18:09:51.3552597Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-29T17:51:36.4739679Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-30T18:48:42.4693933Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-05-31T17:52:50.2414411Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-01T15:49:10.0127923Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-02T15:55:47.1243793Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-03T15:00:00.9425562Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-05T10:51:29.0993495Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-05T17:27:29.9297189Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-06T19:09:35.3457989Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-08T16:30:54.6962694Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-09T18:09:04.6331776Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-10T22:49:48.7872645Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-11T15:00:00.4437671Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-12T19:51:51.7822606Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-13T18:55:15.1995562Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-14T18:52:11.7300487Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-15T20:30:03.1028704Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-16T17:49:32.6151787Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-17T15:00:00.2657863Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-18T15:00:00.2488884Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-19T15:00:00.3448764Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-20T15:59:40.5101977Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-21T19:09:33.0589919Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-22T17:06:07.4837272Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-23T15:00:00.8238528Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-24T15:00:00.418946Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-25T15:00:00.1055378Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-26T15:00:00.9667127Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-27T16:22:10.5622685Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-28T16:09:27.7831669Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-29T15:42:52.81563Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-06-30T16:04:28.6596756Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-01T15:00:00.1968945Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-02T17:21:45.8812844Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-03T15:00:00.8541334Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-05T16:43:06.6304145Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-06T16:10:21.966706Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-25T09:53:59.5991571Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-25T15:00:00.5378232Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-26T16:34:12.5291992Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-27T17:43:15.5090067Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-28T17:23:51.6202502Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-29T15:00:00.7789991Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-30T15:07:45.5535949Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-31T15:00:00.3004073Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-01T17:31:43.7478192Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-02T17:13:12.7136288Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-03T22:34:42.8769402Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-04T17:50:20.7257498Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-05T15:25:59.5843782Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-06T15:00:00.4324574Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-07T15:00:00.5101995Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-08T16:30:17.4169829Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-09T19:39:52.6772499Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-10T17:27:04.6347146Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-11T16:24:08.0843698Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-12T17:37:12.7928485Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-13T15:00:00.8567741Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-14T15:00:00.8814442Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-15T21:46:43.0466725Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-16T18:41:37.5861559Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-17T19:21:21.6450205Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-18T20:54:06.9985751Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-19T17:41:39.6312194Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-20T20:37:17.5895397Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-21T15:00:00.5472259Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-22T17:10:05.671746Z",
+        "Message": "Daily Reset - Resetting"
+      }
+    ],
+    "TreasureMap": [
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-08T16:41:33.5030988Z",
+        "Message": "ReSyncing Time - LastGathered: 07/06/2022 23:41:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-08T17:18:27.8336596Z",
+        "Message": "ReSyncing Time - LastGathered: 08/06/2022 00:18:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-09T18:12:00.0628186Z",
+        "Message": "ReSyncing Time - LastGathered: 09/06/2022 01:11:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-09T21:59:31.2272157Z",
+        "Message": "ReSyncing Time - LastGathered: 09/06/2022 04:59:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-11T11:11:20.9330956Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-11T12:06:42.0295771Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-11T12:07:30.8067551Z",
+        "Message": "ReSyncing Time - LastGathered: 11/06/2022 13:06:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-12T11:57:55.1058319Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-12T20:47:15.6817894Z",
+        "Message": "ReSyncing Time - LastGathered: 12/06/2022 12:56:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-13T19:23:52.6178704Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-14T18:57:36.9801589Z",
+        "Message": "ReSyncing Time - LastGathered: 14/06/2022 01:57:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-14T19:43:19.1776959Z",
+        "Message": "ReSyncing Time - LastGathered: 14/06/2022 02:43:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-14T19:53:48.4496668Z",
+        "Message": "ReSyncing Time - LastGathered: 14/06/2022 02:53:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-14T19:54:18.3047232Z",
+        "Message": "ReSyncing Time - LastGathered: 14/06/2022 02:54:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-14T21:30:42.1776348Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-16T00:25:07.7988211Z",
+        "Message": "ReSyncing Time - LastGathered: 15/06/2022 07:25:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-16T17:50:29.731974Z",
+        "Message": "ReSyncing Time - LastGathered: 16/06/2022 00:50:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-16T18:10:28.5571897Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-17T15:07:47.2299531Z",
+        "Message": "ReSyncing Time - LastGathered: 16/06/2022 22:07:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-18T00:23:05.6401732Z",
+        "Message": "ReSyncing Time - LastGathered: 17/06/2022 07:23:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-18T15:06:08.6728292Z",
+        "Message": "ReSyncing Time - LastGathered: 17/06/2022 22:06:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-18T15:33:58.786581Z",
+        "Message": "ReSyncing Time - LastGathered: 17/06/2022 22:33:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-18T15:35:53.8526489Z",
+        "Message": "ReSyncing Time - LastGathered: 17/06/2022 22:35:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-18T18:32:16.5901905Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-21T19:55:59.2254639Z",
+        "Message": "ReSyncing Time - LastGathered: 21/06/2022 02:55:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-21T19:58:03.9941873Z",
+        "Message": "ReSyncing Time - LastGathered: 21/06/2022 02:58:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-24T21:06:55.0435652Z",
+        "Message": "ReSyncing Time - LastGathered: 24/06/2022 04:06:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-25T00:55:35.0338911Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-25T00:56:01.1119367Z",
+        "Message": "ReSyncing Time - LastGathered: 25/06/2022 01:55:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-26T10:02:25.4438477Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-26T18:48:07.423954Z",
+        "Message": "ReSyncing Time - LastGathered: 26/06/2022 10:57:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-27T19:00:39.6161072Z",
+        "Message": "ReSyncing Time - LastGathered: 27/06/2022 02:00:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-27T19:01:04.8915027Z",
+        "Message": "ReSyncing Time - LastGathered: 27/06/2022 02:01:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-28T16:26:19.828984Z",
+        "Message": "ReSyncing Time - LastGathered: 27/06/2022 23:26:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-28T16:33:48.7426965Z",
+        "Message": "ReSyncing Time - LastGathered: 27/06/2022 23:33:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-28T16:37:11.0254568Z",
+        "Message": "ReSyncing Time - LastGathered: 27/06/2022 23:37:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-28T16:40:58.6528438Z",
+        "Message": "ReSyncing Time - LastGathered: 27/06/2022 23:40:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-28T16:41:03.3640837Z",
+        "Message": "ReSyncing Time - LastGathered: 27/06/2022 23:41:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-28T17:31:03.1916161Z",
+        "Message": "ReSyncing Time - LastGathered: 28/06/2022 00:31:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-28T17:40:04.9700787Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-29T22:11:40.8582071Z",
+        "Message": "ReSyncing Time - LastGathered: 29/06/2022 05:11:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-29T22:16:17.8105181Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-29T22:25:56.177143Z",
+        "Message": "ReSyncing Time - LastGathered: 29/06/2022 23:16:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-06-30T16:05:23.4056395Z",
+        "Message": "ReSyncing Time - LastGathered: 29/06/2022 23:15:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-02T11:30:17.4691973Z",
+        "Message": "ReSyncing Time - LastGathered: 01/07/2022 18:30:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-02T13:48:29.7986501Z",
+        "Message": "ReSyncing Time - LastGathered: 01/07/2022 20:48:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-03T13:56:49.4876022Z",
+        "Message": "ReSyncing Time - LastGathered: 02/07/2022 20:56:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-04T00:08:28.2227502Z",
+        "Message": "ReSyncing Time - LastGathered: 03/07/2022 07:08:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-05T16:48:42.4951258Z",
+        "Message": "ReSyncing Time - LastGathered: 04/07/2022 23:48:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-05T16:56:29.5190387Z",
+        "Message": "ReSyncing Time - LastGathered: 04/07/2022 23:56:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-05T16:57:27.2554589Z",
+        "Message": "ReSyncing Time - LastGathered: 04/07/2022 23:57:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-05T16:58:33.9813315Z",
+        "Message": "ReSyncing Time - LastGathered: 04/07/2022 23:58:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-05T17:00:53.5099069Z",
+        "Message": "ReSyncing Time - LastGathered: 05/07/2022 00:00:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-05T17:06:17.9284339Z",
+        "Message": "ReSyncing Time - LastGathered: 05/07/2022 00:06:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-05T22:40:29.0063901Z",
+        "Message": "ReSyncing Time - LastGathered: 05/07/2022 05:40:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-06T16:11:19.8156384Z",
+        "Message": "ReSyncing Time - LastGathered: 05/07/2022 23:11:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-06T16:12:32.4346146Z",
+        "Message": "ReSyncing Time - LastGathered: 05/07/2022 23:12:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:08:11.7443228Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:08:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:12:12.0381242Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:12:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:14:32.4232175Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:14:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:16:14.354601Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:16:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:18:03.7127387Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:18:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:21:33.0349695Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:21:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:24:14.2902097Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:24:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:30:52.2301854Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:30:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:33:54.7134557Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:33:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:34:09.9308697Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:34:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T10:55:02.3932101Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 17:55:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T11:20:12.6016036Z",
+        "Message": "ReSyncing Time - LastGathered: 24/07/2022 18:20:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-25T20:35:29.6195612Z",
+        "Message": "ReSyncing Time - LastGathered: 25/07/2022 03:35:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-26T16:36:05.5241491Z",
+        "Message": "ReSyncing Time - LastGathered: 25/07/2022 23:36:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-26T16:45:16.3056441Z",
+        "Message": "ReSyncing Time - LastGathered: 25/07/2022 23:45:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-31T08:44:13.6304347Z",
+        "Message": "Treasure Map Collected"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-31T14:25:12.1898312Z",
+        "Message": "ReSyncing Time - LastGathered: 31/07/2022 09:42:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-31T17:31:02.9843321Z",
+        "Message": "ReSyncing Time - LastGathered: 31/07/2022 09:40:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-01T19:40:57.0067523Z",
+        "Message": "ReSyncing Time - LastGathered: 01/08/2022 02:40:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-01T19:41:47.4002177Z",
+        "Message": "ReSyncing Time - LastGathered: 01/08/2022 02:41:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-02T17:28:15.6632214Z",
+        "Message": "ReSyncing Time - LastGathered: 02/08/2022 00:28:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-02T17:45:30.3674786Z",
+        "Message": "ReSyncing Time - LastGathered: 02/08/2022 00:45:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-02T17:47:57.7137807Z",
+        "Message": "ReSyncing Time - LastGathered: 02/08/2022 00:47:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-02T17:52:00.510325Z",
+        "Message": "ReSyncing Time - LastGathered: 02/08/2022 00:52:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-02T17:58:09.4723829Z",
+        "Message": "ReSyncing Time - LastGathered: 02/08/2022 00:58:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-02T22:14:39.7026935Z",
+        "Message": "ReSyncing Time - LastGathered: 02/08/2022 05:14:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-07T00:10:27.8117696Z",
+        "Message": "ReSyncing Time - LastGathered: 06/08/2022 07:10:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-08T23:26:22.4514289Z",
+        "Message": "ReSyncing Time - LastGathered: 08/08/2022 06:26:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-10T21:02:52.3251924Z",
+        "Message": "ReSyncing Time - LastGathered: 10/08/2022 04:02:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-10T21:05:26.476392Z",
+        "Message": "ReSyncing Time - LastGathered: 10/08/2022 04:05:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-10T21:07:41.1946888Z",
+        "Message": "ReSyncing Time - LastGathered: 10/08/2022 04:07:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-10T21:08:41.8813914Z",
+        "Message": "ReSyncing Time - LastGathered: 10/08/2022 04:08:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-15T23:07:32.0701161Z",
+        "Message": "ReSyncing Time - LastGathered: 15/08/2022 06:07:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-18T22:41:20.8012481Z",
+        "Message": "ReSyncing Time - LastGathered: 18/08/2022 05:41:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-18T22:43:28.919601Z",
+        "Message": "ReSyncing Time - LastGathered: 18/08/2022 05:43:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-18T22:49:13.0393391Z",
+        "Message": "ReSyncing Time - LastGathered: 18/08/2022 05:49:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-18T22:50:16.599485Z",
+        "Message": "ReSyncing Time - LastGathered: 18/08/2022 05:50:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-18T22:58:04.6068063Z",
+        "Message": "ReSyncing Time - LastGathered: 18/08/2022 05:58:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-20T20:43:09.9194327Z",
+        "Message": "ReSyncing Time - LastGathered: 20/08/2022 03:43:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-20T21:53:49.5290334Z",
+        "Message": "ReSyncing Time - LastGathered: 20/08/2022 04:53:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-20T21:54:34.7324794Z",
+        "Message": "ReSyncing Time - LastGathered: 20/08/2022 04:54:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-20T22:17:26.9792614Z",
+        "Message": "ReSyncing Time - LastGathered: 20/08/2022 05:17:00"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-22T17:38:20.0644599Z",
+        "Message": "ReSyncing Time - LastGathered: 22/08/2022 00:38:00"
+      }
+    ],
+    "BeastTribe": [
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-11T11:10:03.1841142Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-11T11:10:05.1618529Z",
+        "Message": "Disabled"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-12T19:56:04.6482686Z",
+        "Message": "Threshold - 6"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-12T19:56:06.1617131Z",
+        "Message": "Threshold - 12"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-12T19:56:09.5389486Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-12T19:56:11.3338999Z",
+        "Message": "Disabled"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-12T19:56:11.9637165Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-12T20:01:05.7589378Z",
+        "Message": "Threshold - 1"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-12T20:01:08.4900167Z",
+        "Message": "Comparison Mode - LessThanOrEqual"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-12T20:01:09.2679972Z",
+        "Message": "Threshold - 0"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-06-13T19:11:22.472502Z",
+        "Message": "Threshold - 6"
+      },
+      {
+        "ModuleType": 9,
+        "Time": "2022-07-05T17:36:57.3459879Z",
+        "Message": "Threshold - 0"
+      }
+    ],
+    "CustomDelivery": [
+      {
+        "ModuleType": 12,
+        "Time": "2022-06-11T11:10:10.2227827Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 12,
+        "Time": "2022-06-12T20:01:15.5252495Z",
+        "Message": "Comparison Mode - LessThanOrEqual"
+      },
+      {
+        "ModuleType": 12,
+        "Time": "2022-06-12T20:01:16.2441277Z",
+        "Message": "Threshold - 0"
+      }
+    ],
+    "WondrousTails": [
+      {
+        "ModuleType": 7,
+        "Time": "2022-06-11T11:11:13.0896574Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 7,
+        "Time": "2022-06-11T11:11:14.2486701Z",
+        "Message": "Stamp Available Notification Enabled"
+      }
+    ]
+  },
+  "Version": 1
+}

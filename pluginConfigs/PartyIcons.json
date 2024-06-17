@@ -1,0 +1,26 @@
+{
+  "$type": "PartyIcons.Configuration, PartyIcons",
+  "ChatContentMessage": true,
+  "HideLocalPlayerNameplate": true,
+  "TestingMode": false,
+  "EasternNamingConvention": false,
+  "DisplayRoleInPartyList": false,
+  "Version": 1,
+  "IconSetId": 0,
+  "SizeMode": 0,
+  "NameplateOverworld": 2,
+  "NameplateAllianceRaid": 6,
+  "NameplateDungeon": 6,
+  "NameplateBozjaParty": 6,
+  "NameplateBozjaOthers": 0,
+  "NameplateRaid": 7,
+  "NameplateOthers": 2,
+  "ChatOverworld": 2,
+  "ChatAllianceRaid": 2,
+  "ChatDungeon": 3,
+  "ChatRaid": 2,
+  "ChatOthers": 3,
+  "StaticAssignments": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[PartyIcons.Entities.RoleId, PartyIcons]], System.Private.CoreLib"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Enable": true,
+  "Layer": 10,
+  "ShowIcon": true,
+  "IconScale": 0.75,
+  "ShowTooltip": true,
+  "TooltipColor": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  }
+}

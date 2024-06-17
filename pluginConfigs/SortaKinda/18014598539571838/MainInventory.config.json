@@ -1,0 +1,444 @@
+{
+  "InventoryConfigs": [
+    {
+      "SlotConfigs": [
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        }
+      ],
+      "Type": 0
+    },
+    {
+      "SlotConfigs": [
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "56764598030c4e0b8a0064edf015f3cf"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        }
+      ],
+      "Type": 1
+    },
+    {
+      "SlotConfigs": [
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "52fb7c057993495d803bf47d4ff19512"
+        },
+        {
+          "RuleId": "fbab65fd76d8494fb803c4c6587163fc"
+        }
+      ],
+      "Type": 2
+    },
+    {
+      "SlotConfigs": [
+        {
+          "RuleId": "13898e3fa0ea4445ac0cca940acb0226"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "13898e3fa0ea4445ac0cca940acb0226"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "13898e3fa0ea4445ac0cca940acb0226"
+        },
+        {
+          "RuleId": "bcae3fe4c0dd4bfc88db374b9118dc9d"
+        },
+        {
+          "RuleId": "bcae3fe4c0dd4bfc88db374b9118dc9d"
+        },
+        {
+          "RuleId": "caeea380ffc647969a41c00c812e1962"
+        },
+        {
+          "RuleId": "caeea380ffc647969a41c00c812e1962"
+        },
+        {
+          "RuleId": "13898e3fa0ea4445ac0cca940acb0226"
+        },
+        {
+          "RuleId": "bcae3fe4c0dd4bfc88db374b9118dc9d"
+        },
+        {
+          "RuleId": "bcae3fe4c0dd4bfc88db374b9118dc9d"
+        },
+        {
+          "RuleId": "caeea380ffc647969a41c00c812e1962"
+        },
+        {
+          "RuleId": "caeea380ffc647969a41c00c812e1962"
+        },
+        {
+          "RuleId": "aa75d758ac7d41708a40de9e2e476bf4"
+        },
+        {
+          "RuleId": "bcae3fe4c0dd4bfc88db374b9118dc9d"
+        },
+        {
+          "RuleId": "bcae3fe4c0dd4bfc88db374b9118dc9d"
+        },
+        {
+          "RuleId": "caeea380ffc647969a41c00c812e1962"
+        },
+        {
+          "RuleId": "caeea380ffc647969a41c00c812e1962"
+        },
+        {
+          "RuleId": "aa75d758ac7d41708a40de9e2e476bf4"
+        },
+        {
+          "RuleId": "bcae3fe4c0dd4bfc88db374b9118dc9d"
+        },
+        {
+          "RuleId": "bcae3fe4c0dd4bfc88db374b9118dc9d"
+        },
+        {
+          "RuleId": "caeea380ffc647969a41c00c812e1962"
+        },
+        {
+          "RuleId": "caeea380ffc647969a41c00c812e1962"
+        },
+        {
+          "RuleId": "aa75d758ac7d41708a40de9e2e476bf4"
+        },
+        {
+          "RuleId": "bcae3fe4c0dd4bfc88db374b9118dc9d"
+        },
+        {
+          "RuleId": "bcae3fe4c0dd4bfc88db374b9118dc9d"
+        },
+        {
+          "RuleId": "caeea380ffc647969a41c00c812e1962"
+        },
+        {
+          "RuleId": "caeea380ffc647969a41c00c812e1962"
+        }
+      ],
+      "Type": 3
+    }
+  ]
+}
